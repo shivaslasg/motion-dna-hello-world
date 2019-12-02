@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android-app-helloworld</string>
+
+    <string-array name="intervals">
+        <item>0.5</item>
+        <item>1 (Default)</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="interval_prompt">Intervals</string>
+</resources>
